@@ -4,26 +4,26 @@
 
 streamlit==1.54.0
 streamlit==1.54.0
-Django==6.0.5
+Django==6.0.7
 
 
 
 # Data Manipulation Libraries:
 numpy==2.4.2
-pandas==3.0.0
+pandas==3.0.1
 
 # Data Visualization Libraries:
 matplotlib==3.10.8
 seaborn==0.13.2
 
 # Data Analysis Libraries:
-scipy==1.17.0
+scipy==1.17.1
 scikit-learn==1.8.0
 
 # Machine Learning Libraries:
 tensorflow==2.20.0
-keras==3.13.2
-tensorflow==2.20.0
+keras==3.15.0
+keras==3.15.0
 
 
 # Natural Language Processing Librariesnltk==3.10.3
