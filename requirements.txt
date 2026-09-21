@@ -4,7 +4,7 @@
 
 streamlit==1.54.0
 streamlit==1.54.0
-Django==6.0.2
+Django==6.0.5
 
 
 
@@ -24,24 +24,22 @@ scikit-learn==1.8.0
 tensorflow==2.20.0
 keras==3.13.2
 tensorflow==2.20.0
-keras==3.13.2
 
 
-# Natural Language Processing Libraries:
-nltk==3.9.3
+# Natural Language Processing Librariesnltk==3.10.3
 spacy==3.8.11
 
 # Web Scraping Libraries:
 beautifulsoup4==4.14.3
-requests==2.32.5
+requests==2.33.0
 
 # Database Libraries:
-sqlalchemy==2.0.46
+sqlalchemy==2.0.47
 psycopg2-binary==2.9.11
 
 # Jupyter Notebook Libraries:
 jupyter==1.1.1
-notebook==7.5.3
+notebook==7.5.6
 ipywidgets==8.1.8
 
 # Other Useful Libraries:
