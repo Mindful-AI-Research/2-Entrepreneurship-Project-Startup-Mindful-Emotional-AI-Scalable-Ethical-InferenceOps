@@ -23,13 +23,19 @@ scikit-learn==1.8.0
 # Machine Learning Libraries:
 tensorflow==2.21.0
 keras==3.15.1
-tensorflow==2.21.0
+
+
+# Natural Language Processing Librariesnltk==3.10.3
+spacy==3.8.11
 keras==3.15.1
+tensorflow==2.21.0
+
 
 
 # Natural Language Processing Libraries:
 nltk==3.10.3
 spacy==3.8.16
+
 
 # Web Scraping Libraries:
 beautifulsoup4==4.14.3
