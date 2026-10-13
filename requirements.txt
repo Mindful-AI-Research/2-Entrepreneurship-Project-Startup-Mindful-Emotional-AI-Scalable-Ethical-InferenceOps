@@ -38,7 +38,7 @@ spacy==3.8.16
 
 
 # Web Scraping Libraries:
-beautifulsoup4==4.14.3
+beautifulsoup4==4.15.0
 requests==2.33.0
 
 # Database Libraries:
