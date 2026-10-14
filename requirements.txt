@@ -43,7 +43,7 @@ requests==2.33.0
 
 # Database Libraries:
 sqlalchemy==2.1.4
-psycopg2-binary==2.9.11
+psycopg2-binary==2.9.13
 
 # Jupyter Notebook Libraries:
 jupyter==1.1.1
