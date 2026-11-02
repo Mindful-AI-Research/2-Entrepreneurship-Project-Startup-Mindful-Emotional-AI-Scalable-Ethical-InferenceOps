@@ -51,5 +51,5 @@ notebook==7.6.3
 ipywidgets==8.1.9
 
 # Other Useful Libraries:
-joblib==1.5.3
+joblib==1.6.0
 
