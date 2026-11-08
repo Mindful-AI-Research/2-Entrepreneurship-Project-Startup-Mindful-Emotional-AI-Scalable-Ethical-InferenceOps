@@ -33,7 +33,7 @@ tensorflow==2.21.0
 
 
 # Natural Language Processing Libraries:
-nltk==3.10.3
+nltk==3.10.4
 spacy==3.8.16
 
 
